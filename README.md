@@ -15,10 +15,10 @@ This repo serves as my organized workspace for all course requirements, includin
 
 ## 📂 Repository Structure
 cloud-computing-course/
-├── activities/
-├── projects/
-├── notes/
-├── reflections/
+├── activities/README.md
+├── projects/README.md
+├── notes/README.md
+├── reflections/README.md
 └── README.md
 
 
