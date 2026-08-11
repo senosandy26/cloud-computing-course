@@ -6,14 +6,14 @@ This repo serves as my organized workspace for all course requirements, includin
 - Lab activities and exercises
 - Mini-projects
 - Reflection papers
-  
-👤 Student Information
+
+## 👤 Student Information
 - Name:SENO, SANDY GEE DOYAOEN
 - Course/Section:BSIT / I
 - Instructor:JENKIELYN TORRES
 - School Year: [2026-2027]
 
-📂 Repository Structure
+## 📂 Repository Structure
 cloud-computing-course/
 ├── activities/
 ├── projects/
@@ -23,7 +23,7 @@ cloud-computing-course/
 
 
 
-📖 Key Concepts Covered
+## 📖 Key Concepts Covered
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
 - Deployment Models (Public, Private, Hybrid, Community)
