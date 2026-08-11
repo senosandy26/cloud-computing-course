@@ -14,18 +14,12 @@ This repo serves as my organized workspace for all course requirements, includin
 - School Year: 2026-2027
 
 ## 📂 Repository Structure
-activities/
-   └── README.md
-
-notes/
-   └── README.md
-
-projects/
-   └── README.md
-
-reflections/
-   ├── README.md
-   └── cloud-concept-reflection.md
+cloud-computing-course/
+├── activities/
+├── projects/
+├── notes/
+├── reflections/
+└── README.md
 
 
 
