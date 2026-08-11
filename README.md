@@ -8,10 +8,10 @@ This repo serves as my organized workspace for all course requirements, includin
 - Reflection papers
 
 ## 👤 Student Information
-- Name:SENO, SANDY GEE DOYAOEN
-- Course/Section:BSIT / I
-- Instructor:JENKIELYN TORRES
-- School Year: [2026-2027]
+- Name: SENO, SANDY GEE DOYAOEN
+- Course/Section: BSIT / I
+- Instructor: JENKIELYN TORRES
+- School Year: 2026-2027
 
 ## 📂 Repository Structure
 cloud-computing-course/
