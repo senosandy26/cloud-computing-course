@@ -10,23 +10,14 @@ This repo serves as my organized workspace for all course requirements, includin
 - Course/Section:BSIT- 4i
 - Instructor:JENKIELYN TORRES
 - School Year: 2026-2027
- 📁 activities/
-   ├── README.md
-   └── ...
-
-📁 notes/
-   ├── README.md
-   └── ...
-
-📁 projects/
-   ├── README.md
-   └── ...
-
-📁 reflections/
-   ├── README.md
-   └── cloud-concept-reflection.md
-
-📄 README.md
+  
+📂 Repository Structure
+cloud-computing-course/
+├── activities/
+├── projects/
+├── notes/
+├── reflections/
+└── README.md
 
 
 
