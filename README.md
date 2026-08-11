@@ -8,11 +8,13 @@ Class notes and summaries
 Lab activities and exercises
 Mini-projects
 Reflection papers
+
 👤 Student Information
 Name: SENO, SANDY GEE D.
 Course/Section: BSIT / I
 Instructor: JENKIELYN TORRES
 School Year: 2026-2027
+
 📂 Repository Structure
 cloud-computing-course/ ├── activities/ ├── projects/ ├── notes/ ├── reflections/ └── README.md
 
