@@ -1,0 +1,14 @@
+
+1.Cloud Services I Use: List at least 3 cloud services or applications you use regularly (e.g. Google Drive, Netflix, Messenger, Canva, GCash).
+
+Google Drive, Canva and Messenger are tools I use every day. Google Drive enables me to upload, arrange and share school documents with the web. I use Canva to create presentations, posters, and other graphic designs. Messenger can be helpful for talking with my classmates, friends and family. Because they are available via the Internet, and can be used on a variety of devices, these applications are a part of my daily life in a way because I can use them through the cloud.
+
+2.Identify the Models: For each service you listed, identify its service model (IaaS / PaaS / SaaS) and deployment model (Public / Private / Hybrid / Community). Briefly explain why you chose that classification.
+
+Google Drive, Canva and Messenger are examples of Software as a Service (SaaS), because I don't have to manage the servers, hardware or software infrastructure behind them. They are also Public Cloud due to being available to many users and provided via the internet. With a grasp of these models, I found that there was a way to access applications and resources that was convenient without user responsibility for the underlying infrastructure for cloud computing.
+
+3.Git & GitHub for Cloud Projects: Explain why version control is critical when working with cloud infrastructure. How does GitHub help teams collaborate, track changes, and prevent errors when managing cloud resources?
+
+Version control is important when working with cloud projects and Git and GitHub are important tools to use. Git can be used to monitor changes to the source code, configuration files, and other resources of a project. This is crucial when multiple team members are involved in the same project as it lowers the chances of losing work or accidentally changing someone else's work.
+
+GitHub offers a single location, in which the team members can store projects, create branches, review changes, and collaborate via pull requests. It also maintains a log of changes, which will help you to find errors and roll back to a previous version of your work if needed. Once a project is in the cloud, it can be more organized, reliable, and manageable through Git and GitHub. I will be able to work more efficiently on future programming projects and cloud based projects after learning these tools as an Information Technology student.
